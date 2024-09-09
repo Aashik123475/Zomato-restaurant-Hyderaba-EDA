@@ -2,3 +2,9 @@
 
 This repository contains an exploratory data analysis (EDA) project on Zomato restaurant data for Hyderabad. The primary objective is to uncover insights about the restaurant landscape in Hyderabad using various data analysis and visualization techniques.
 
+## Data Source
+The dataset is sourced from Zomato's open data repository, specifically focusing on restaurants in Hyderabad. The data includes information such as:
+
+1.Restaurant name, address, and locality
+2.Cuisine types and cost for two people
+3.Ratings, number of votes, and reviews
